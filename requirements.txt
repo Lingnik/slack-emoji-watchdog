@@ -1,0 +1,7 @@
+requests
+Django
+gunicorn
+django-heroku
+slacker
+slackclient
+redis

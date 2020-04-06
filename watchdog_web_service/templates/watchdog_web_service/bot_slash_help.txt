@@ -1,0 +1,9 @@
+:wave: Hi! I'm Emoji Watchdog, and I help people customize this Slack's emoji.
+
+*#emoji-watchdog Channel*
+WIP
+
+*`/emoji-watchdog` Command*
+The command you're using now lets you configure the watchdog.
+
+• `/emoji-watchdog help` - This message.
